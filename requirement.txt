@@ -1,0 +1,25 @@
+# Core GenAI + RAG Libraries
+langchain>=0.1.15
+openai
+tiktoken
+sentence-transformers
+transformers
+accelerate
+
+# Vector Database
+faiss-cpu  # If you're using FAISS instead of Pinecone
+
+# Local LLM Runtime
+ollama
+gemma:2b
+
+# Streamlit Frontend
+streamlit
+streamlit-chat  # For chatbot-style UI (optional)
+
+# File Handling
+python-docx
+PyPDF2  # For PDF parsing
+pytesseract  # OCR for images (optional)
+Open CV  # If using image previews from PDFs
+
