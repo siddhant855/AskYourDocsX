@@ -1,0 +1,32 @@
+SIDDHANT THETE
++91 74105 47930 •Amravati, Maharashtra ⋄siddhant.v.thete855@gmail.com •linkedin.com/in/[YOURPROFILE]
+PROFILE
+AI Engineer with specialized expertise in LLM applications and RAG architectures. Demonstrated ability to build
+production-grade AI solutions through projects and Microsoft internship. Strong foundation in computer science
+principles.
+EDUCATION
+Indian Institute of Information Technology Guwahati 2023-Present
+B.Tech in Computer Science
+Key Courses: Artificial Intelligence, Machine Learning, Database Systems
+Maharshi Public School, Amravati 2022
+12th Grade (CBSE) 84%
+School of Scholars, Amravati 2020
+10th Grade (CBSE) 90.8%
+SKILLS
+•AI Development: LLMs, LangChain, RAG, Prompt Engineering, Pinecone
+•Programming: Python (NumPy, Pandas), Java, SQL
+•Tools/Frameworks: Azure AI, FastAPI, Streamlit, Git, Docker
+EXPERIENCE
+Microsoft — AI Virtual Intern Summer 2025
+•Developed and deployed AI models using Azure ML Studio
+•Implemented Responsible AI framework for healthcare application
+PROJECTS
+Medical Diagnosis Assistant Live Demo
+•Created using LangChain + OpenAI GPT-4 + Pinecone vector DB
+•Achieved 85
+Financial Insights Engine
+•Built NLP pipeline for financial report analysis
+•Developed interactive dashboard for trend visualization
+ACHIEVEMENTS
+•Microsoft AI Certification (In Progress)
+•BGC Gen AI Certification

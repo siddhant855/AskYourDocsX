@@ -1,0 +1,61 @@
+Dear Mr./Ms. SIDDHANT VINAY THETE Date: 2025-06-13
+AICTE Student ID:  STU681bac5378e051746644051
+Internship ID:  INTERNSHIP_17460816106813174acacc1
+We would like to congratulate you on being selected for 4 - week Internship Program brought to you by Edunet
+Foundation, on the AI Azure,  helping you build a strong base for advanced professional learning and industry-relevant
+applications. The internship will commence on 11th June 2025.
+During this internship, you will work individually and be assigned a mentor who will guide you to identify a solution to the
+problem and develop it into a project. The internship will be providing the following benefits:
+Learn and demonstrate AI and Cloud skills to enhance your employability and boost your confidence in emerging
+technologies
+Gain access to curated learning content through Microsoft Learn and the LMS Portal
+Participate in interactive masterclasses led by industry experts
+Work on real-world problem statements with hands-on practice and mentorship
+Earn a Co-branded certificate with the AICTE logo, enhancing your career credentials.
+The structure of the internship is as follows:
+Week Topic
+Week-1Introduction to the program, Registration in Microsoft Learn & LMS Portal, what is AI, Machine
+Learning (ML), and Deep Learning (DL), Real-world applications of AI, Basic concepts: data, features,
+labels, models, training
+Week-2Supervised Vs Unsupervised, Supervised learning- Classification Hands-On, Different types of
+Regressions, Supervised learning- Regression Hands-On, what is Un-Labeled Data, UnSupervised
+Learning- Hands-ON
+Week-3What is Gen -AI, Gen AI- Azure Pratical Demo, Image Classification- Computer Vision, Azure Custom
+Visions Pratical Demo
+Week-4Introduction to Neural Networks and Deep Learning, Deep Learning - Pratical HandsOn, Students
+Hands-On, Project Demo
+Criteria for certification:
+Participation in weekly sessions with mentors is mandatory
+Registration on MS Learn and Edunet LMS
+Completion of Courses on LMS
+Submission of a project presentation required
+Stipend:
+There will be NO stipend for this internship. If you agree to the above terms of the offer, please indicate acceptance of the
+offer letter and below undertaking to the undersigned.
+Sincerely,
+Nagesh Singh
+Chairman – Edunet Foundation   Internship Offer LetterUndertaking Agreement
+I, SIDDHANT VINAY THETE , from Indian Institute of Information Technology Guwahati, Assam  who is undergoing an
+internship under the Microsoft Internship brought you by Edunet Foundation, do hereby undertake the following:
+1.I will be present at the weekly sessions conducted virtually, as organized by the mentor and team, to undertake the
+courses assigned to me for the duration of the internship. I will communicate to the mentor and team should there be any
+reason or inability to be present.
+2.I will communicate regularly with the said mentor on the courses' progress.
+3.I declare that I will ensure the timely submission of the project and will deliver a presentation within the stipulated time to
+complete the internship and earn a certificate.
+4.I will adhere to and maintain the decorum of weekly sessions conducted virtually and will not be involved in any
+disciplinary practice during the same and abide by ethical standards followed by Edunet Foundation.
+5.I declare that my internship with Edunet Foundation shall be terminated at any stage on the grounds of:
+  Absenteeism from masterclasses and mentor-led sessions
+  Not in touch with mentor or team
+  Not reachable by Edunet Foundation
+6.I further declare that my internship shall be terminated forthwith at any stage, misbehaviour, inciting hatred, indiscipline,
+habitual insubordination etc. or on grounds of misconduct etc. as came to the notice of Edunet Foundation.
+Name: SIDDHANT VINAY THETE
+Institute:  Indian Institute of Information Technology Guwahati, Assam
+AICTE Student ID:  STU681bac5378e051746644051
+Internship ID:  INTERNSHIP_17460816106813174acacc1
+Internship Title:  AI Azure
+Telegram Group Link:  https://t.me/+SC4LksUyIgA5ZmM1?
+Telegram Group Name:  MS - AICTE Internship - June 2025
+Student's Gmail ID:  siddhant.v.thete855@gmail.com

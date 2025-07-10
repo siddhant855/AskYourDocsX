@@ -1,0 +1,60 @@
+ Siddhant Vinay Thete  
+ 
+PROJECT  
+ 
+Text to Image Generation  
+Self-Initiated / Freelance • May 2025 - May 2025  
+• Engineered a text -to-image generation model using advanced neural networks, achieving a 90% accuracy rate in rendering high -quality images from textual descriptions.  
+End to End Medical Chatbot with LLM, Pinecone, LangChain  
+Self-Initiated / Freelance • June 2025 - June 2025  
+• Engineered an end -to-end medical chatbot utilizing Large Language Models (LLM), Pinecone, and LangChain, enabling efficient patient interaction an d reducing consultation times by 
+25%.  
+Implementing Zomato chatbot with Chainlit  
+Self-Initiated / Freelance • J uly 2025 - July 2025  
+• Integrated a Zomato chatbot using Chainlit, enhancing user experience by providing instant restaurant recommendations and o rder processing, achieving a 40% increase in customer 
+engagement.  
+ 
+EDUCATION  
+ 
+Indian Institute of Information Te chnology , Guw ahati                                                                                                                                                2023-2027 
+B.Tech in C omputer Sci ence & En gine ering  
+Maharshi Public Sch ool, Maharas htra                                        2021 -2022                                                                                                                                                                                                           
+Class 12                                         84 
+School of Scholars. Maharashtra                                                2019 -2020  
+Class 10                      90.8 
+ 
+CERTIFICATIONS  
+ 
+Generative AI with LLMs  
+Nvidia • 2025  
+• Gained hands -on experience in building, fine -tuning, and deploying Large Langu age Models (LLMs) for real -world applications. Learned prompt engineering, transformer architecture, 
+and practical GenAI workflows using cutting -edge tools like NeMo, Hugging Face, and PyTorch. Developed end -to-end LLM pipelines for text generation, summar ization, and retrieval -
+augmented generation (RAG ). 
+ 
+ 
+  
+ 
+  
+  
+   
+SKILLS  
+ 
+Technical Skills: LLM Application Developer,  AI Chatbots, A I Automations  
+Programming S kills: Pyth on, Java  
+Database s: MySQ L 
+AI/ML:  Pandas, NumPy  ,Matplotlib, Probability,  Linear Algebra . 
+Developer Tools : VS Code, Git Hub, Jupyter Noteb ook . 
+Course Work: OOP s, Data Structu res, Algor ithm, Data base Management System, O perating Syste ms 
+ 
+Posi tion of R esponsi bility  
+ 
+House Captain – School Student Counci l 
+Amravati, Maharashtra , School of S cholars, July 2019 – February 2020  
+• Promote d School S pirit and participation, res ulting in a 20% increase in event attendance.  
+• Coordinate d inter -house competitions and developed leadership , publ ic speaking  and decision -making  skills. 
+ 
+Captain – U-17 School Football Tea m 
+Amravati, Maharashtra , School of S cholars, July 2019 – February 2020  
+• Led the te am d istrict -level championship s with on -field decisions and effective teamwo rk. 
+• Implemented st rategic plays during during mat ches, en hanci ng team performan ce under high -pressu re scenarios.  
+• Strengthen ed lea dershi p, teamwo rk, and de cision-making  under pressure in competitive  sports set tings.

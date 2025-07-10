@@ -1,0 +1,100 @@
+Patient Medical History Report  
+Patient Name:  John A. Reynolds  
+Date of Birth:  March 15, 1972  
+Gender:  Male  
+Patient ID:  20498376  
+Date of Report:  July 5, 2025  
+ 
+1. Chief Complaint:  
+“Shortness of breath on exertion, mild chest pain, and fatigue over the past 2 weeks.”  
+ 
+2. History of Present Illness:  
+The patient is a 53 -year-old male with a hist ory of hypertension and hyperlipidemia who presents with 
+new-onset exertional dyspnea and intermittent, non -radiating chest discomfort. The symptoms began 
+approximately 2 weeks ago and have progressively worsened. No history of fever, cough, palpitations, 
+or dizziness. Denies orthopnea or paroxysmal nocturnal dyspnea.  
+ 
+3. Past Medical History:  
+• Hypertension  (diagnosed in 2015)  
+• Hyperlipidemia  (diagnosed in 2017)  
+• Type 2 Diabetes Mellitus  (diagnosed in 2020)  
+• Seasonal Allergies  
+• Appendectomy  (2010)  
+ 
+4. Past Surgical History:  
+• Appendectomy  – 2010 (laparoscopic)  
+• Cataract Surgery  – Right eye, 2022  
+ 
+5. Family History:  
+• Father: Dec eased at 68 (Myocardial infarction)  
+• Mother: Alive, 78 – Hypertension, Osteoporosis  
+• Siblings: Two younger brothers – both alive and healthy  
+ 
+6. Social History:  • Smoker: No (Quit in 2019, previously 10 pack -years)  
+• Alcohol: Occasional – 1-2 drinks/week  
+• Drug use: Denies  
+• Occupation: Accountant  
+• Marital status: Married, 2 children  
+ 
+7. Medications:  
+• Lisinopril 20 mg once daily  
+• Metformin 500 mg twice daily  
+• Atorvastatin 40 mg nightly  
+• Cetiri zine 10 mg as needed  
+ 
+8. Allergies:  
+• Penicillin  – Causes rash and hives  
+ 
+9. Review of Systems:  
+• General:  Mild fatigue  
+• Cardiovascular:  Chest discomfort, no palpitations  
+• Respiratory:  Dyspn ea on exertion, no cough  
+• GI: No nausea, vomiting, or changes in bowel habits  
+• Neuro:  No headaches or visual changes  
+ 
+10. Physical Examination:  
+• Blood Pressure:  144/88 mmHg  
+• Pulse:  84 bpm  
+• Respiratory Rate:  18/min  
+• Temperature : 98.7°F  
+• O2 Sat:  97% on room air  
+General:  Alert, oriented, in no acute distress  
+Heart:  Regular rate and rhythm, no murmurs  
+Lungs:  Clear to auscultation bilaterally  
+Extremities:  No edema, good peripheral pulses  
+Neuro:  Cranial nerves II –XII intact  
+ 
+11. Labs and Imaging:  
+CBC (June 29, 2025):  • WBC: 6.8 x10⁹/L  
+• Hemoglobin: 14.2 g/dL  
+• Platelets: 220 x10⁹/L  
+CMP:  
+• Glucose: 139 mg/dL  
+• BUN: 18 mg/dL  
+• Creatinine: 1.0 mg/dL  
+• AST/ALT: Normal  
+Lipid Panel : 
+• Total Cholesterol: 212 mg/dL  
+• LDL: 148 mg/dL  
+• HDL: 38 mg/dL  
+• Triglycerides: 182 mg/dL  
+ECG:  Normal sinus rhythm  
+Chest X -ray: No acute infiltrates or cardiomegaly  
+ 
+12. Assessment:  
+1. Suspected stable angina – will schedule stre ss test  
+2. Poorly controlled lipid profile  
+3. Type 2 diabetes – stable  
+4. Hypertension – borderline controlled  
+ 
+13. Plan:  
+• Schedule cardiac stress test  
+• Increase Atorvastatin to 80 mg  
+• Continue Lisinopril and Metformin  
+• Recommend low -fat, low -sugar diet  
+• Follow -up in 2 weeks or sooner if symptoms worse Physician:  
+Dr. Melanie Carter, MD  
+Internal Medicine  
+License #: 0459832 -IM 
+Signature: _________________ _____  
+Date: July 5, 2025

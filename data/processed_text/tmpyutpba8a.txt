@@ -1,0 +1,74 @@
+Q2 2024 FINANCIAL PERFORMANCE REPORT  
+ 
+Prepared for: Internal Use & Seed Investors   
+Prepared by: CFO Office, Finverge Technologies Pvt. Ltd.   
+Reporting Period: April 1, 2024 – June 30, 2024  
+ 
+--- 
+ 
+**1. Executive Summary:**  
+ 
+In Q2 2024, Finverge Technologies achieved a quarter -over -quarter (QoQ) revenue growth of 
+22.8%, driven by increased enterprise subscriptions and onboarding of two large retail clients 
+(ReliantMart and ShopSphere).  
+ 
+While revenue  showed strong performance, cash burn increased due to product R&D expansion 
+and higher customer acquisition costs (CAC). The company is on track to reach breakeven by 
+Q1 2025, pending successful closure of the current bridge round.  
+ 
+--- 
+ 
+**2. Financial Hi ghlights:**  
+ 
+| Metric                          | Q1 2024      | Q2 2024      | % Change QoQ  |  
+|--------------------------------- |-------------- |-------------- |---------------- | 
+| Total Revenue                   | ₹1.82 Cr     | ₹2.24 Cr     | +22.8%         | 
+| Operating Expenses              | ₹2.70 Cr     | ₹3.15 Cr     | +16.7%         |  
+| R&D Spend                       | ₹0.62 Cr     | ₹0.91 Cr     | +46.7%         |  
+| Sales & Marketing               | ₹0.88 Cr     | ₹1.21 Cr     | +37.5%         |  
+| Net Loss                        | ₹0.88 Cr     | ₹0.91 Cr     | +3.4%          |  
+| Burn Rate (Monthly Avg)        | ₹29.3 Lakhs  | ₹30.3 Lakhs  | +3.4%          |  
+ 
+--- 
+ 
+**3. Cash Position & Runway:**   
+As of June 30, 2024:  
+- Cash in hand: ₹1.97 Cr  
+- Runway remaining: ~6.5 months at current burn rate  
+- Accounts receivable: ₹0.54 Cr  
+- Debt obligations: ₹0.30 Cr (short -term vendor payments due in 90 days)  
+ 
+--- 
+ 
+**4. Fundraising Update:**  
+ 
+Finverge is currently raising ₹5.5 Cr via a bridge round led by AlphaSpring Ventures and 
+several angel syndicates. Term sheets have been received from three investors; due diligence 
+expected to close by August 10, 2024.  
+ 
+Use of funds:  
+- 35%: Product devel opment and infra scaling  
+- 30%: Customer acquisition  
+- 25%: Talent hiring (engineering + customer success)  
+- 10%: Contingency and compliance  
+ 
+--- 
+ 
+**5. Strategic Notes:**  
+ 
+- Lifetime Value (LTV) to CAC ratio improved from 2.9x to 3.4x  
+- Churn reduced to 3. 6% from 5.1% last quarter  
+- 2 enterprise deals in late -stage pipeline (₹1.4 Cr ARR combined)  
+ 
+--- 
+ 
+**6. Risk Areas Identified:**  
+ - Delay in fundraising could result in cash crunch by December 2024  
+- CAC continues to rise, especially in Tier -1 metro acquis ition  
+- Competitive pressure from newer entrants in the B2B fintech stack (CredEdge, ArthaStack)  
+ 
+--- 
+ 
+Prepared by:   
+Ritika Khanna, Chief Financial Officer   
+Date: July 5, 2024

@@ -1,0 +1,33 @@
+CONSULTING SERVICES AGREEMENT
+
+This Consulting Services Agreement (“Agreement”) is made effective as of March 1, 2024, by and between:
+
+**Firm Name:** Vertex Analytics Pvt. Ltd., a company incorporated under the Companies Act, 2013, having its principal office at 9th Floor, Hinjewadi Phase 2, Pune, Maharashtra – 411057 (“Client”);
+
+AND
+
+**Consultant:** Mr. Arvind Patel, an individual with a permanent address at 110, NRI Enclave, Ahmedabad, Gujarat – 380015 (“Consultant”).
+
+**1. Services Provided:** Consultant agrees to provide business intelligence development, system auditing, and compliance advisory as described in Exhibit A.
+
+**2. Term and Termination:**
+  a. The term of this Agreement shall be for 9 months, commencing on March 1, 2024, and terminating on November 30, 2024.
+  b. Either party may terminate this Agreement with 15 days’ prior written notice.
+  c. Client may terminate the Agreement immediately in the event of a material breach by Consultant.
+
+**3. Compensation:**
+  a. Consultant shall be paid a fixed monthly fee of ₹1,20,000, inclusive of all applicable taxes.
+  b. Payment shall be made within 10 days of invoice submission by the Consultant.
+
+**4. Confidentiality:**
+  Both parties agree to maintain the confidentiality of proprietary information disclosed during the term of this Agreement, and for a period of two years thereafter.
+
+**5. Independent Contractor:**
+  Consultant shall perform all duties under this Agreement as an independent contractor and shall not be considered an employee of the Client.
+
+**6. Governing Law and Jurisdiction:**
+  This Agreement shall be governed by the laws of India, and the courts of Pune shall have exclusive jurisdiction.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+[Signature Block]

@@ -1,0 +1,224 @@
+Step 1: Set Up Your Environment  
+• 
+Create a Python virtual environment:  
+bash 
+CopyEdit  
+python3 -m venv askyourdocs-env  
+source askyourdocs-env/bin/activate   # Linux/Mac  
+# or  
+askyourdocs-env\Scripts\activate      # Windows  
+• 
+Install essential packages:  
+bash 
+CopyEdit  
+pip install langchain llama-index sentence-transformers faiss-cpu 
+pytesseract opencv-python pdfplumber python-docx streamlit 
+networkx plotly redis auto-gen crewai  
+• 
+Install Tesseract OCR on your machine:  
+o Ubuntu: sudo apt install tesseract-ocr o Windows: Download installer 
+from https://github.com/tesseract-ocr/tesseract  
+  
+Step 2: Create Project Folder Structure  
+Create these folders and files:  
+arduino CopyEdit 
+askyourdocs-x/  
+├── agents/  
+│   ├── context_miner.py  
+│   ├── contradiction_hunter.py  
+│   ├── action_planner.py  
+│   └── persona_shifter.py  
+├── core/  
+│   ├── document_parser.py  
+│   ├── ocr_processor.py  
+│   ├── chunker.py  
+│   ├── embedder.py  
+│   ├── vectorstore.py  
+│   ├── rag_chain.py  
+│   ├── memory_store.py  
+│   ├── temporal_reasoning.py  
+│   └── org_graph_builder.py  
+├── frontend/  
+│   ├── app.py  
+│   └── components.py  
+├── utils/  
+│   ├── config.py  
+│   ├── logging.py  
+│   └── prompt_templates.py  
+├── data/  
+│   ├── uploads/  
+│   ├── processed_text/  
+│   ├── embeddings/  
+│   └── graphs/  
+├── tests/  
+│   ├── test_agents.py  
+│   ├── test_core.py  
+│   └── test_frontend.py  
+├── requirements.txt  
+└── README.md  
+  
+Step 3: Implement Document Parsing (core/document_parser.py) • 
+Use pdfplumber to extract text from PDFs.  
+ 
+•  Use python-docx for Word docs.  
+Example:  
+python CopyEdit import 
+pdfplumber from docx 
+import Document  
+ def 
+extract_text_from_pdf(path):  
+    text = ""     with 
+pdfplumber.open(path) as pdf:         
+for page in pdf.pages:  
+            text += page.extract_text() + "\n"     
+return text  
+ def 
+extract_text_from_docx(path):  
+    doc = Document(path)  
+    return "\n".join([para.text for para in doc.paragraphs])  
+  
+Step 4: Implement OCR for Scanned Images (core/ocr_processor.py)  
+ 
+•  Use pytesseract + OpenCV to extract text from scanned images.  
+Example:  
+python CopyEdit 
+import cv2 import 
+pytesseract  
+ def ocr_from_image(image_path):     
+img = cv2.imread(image_path)  
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)     
+text = pytesseract.image_to_string(gray)     return 
+text  
+  
+Step 5: Chunk Text into Pieces (core/chunker.py)  
+ 
+•  Use LangChain's text splitter or your own function.  
+Example:  
+python CopyEdit  
+from langchain.text_splitter import RecursiveCharacterTextSplitter  
+ def 
+chunk_text(text):  
+    splitter = RecursiveCharacterTextSplitter(chunk_size=500, 
+chunk_overlap=50)  
+    return splitter.split_text(text)  
+  
+Step 6: Create Embeddings (core/embedder.py)  
+ 
+•  Use SentenceTransformers model to convert text chunks to vectors.  
+Example:  
+python CopyEdit  
+from sentence_transformers import SentenceTransformer  
+  
+model = SentenceTransformer('all-MiniLM-L6-v2')  
+ def 
+embed_chunks(chunks):  
+    embeddings = model.encode(chunks)     
+return embeddings  
+  
+Step 7: Build Vector Store (core/vectorstore.py)  
+ 
+•  Use FAISS or Qdrant for vector similarity search.  
+Example with FAISS:  
+python CopyEdit 
+import faiss 
+import numpy as np  
+ def build_faiss_index(embeddings):     
+dimension = embeddings.shape[1]     
+index = faiss.IndexFlatL2(dimension)     
+index.add(np.array(embeddings))     
+return index  
+ def search_index(index, query_embedding, 
+k=5):  
+    distances, indices = index.search(np.array([query_embedding]), k)     
+return indices[0]  
+  
+Step 8: Retrieval Augmented Generation Pipeline (core/rag_chain.py)  
+•  Use LangChain with your vector store + open-source LLM (e.g., Mistral via 
+HuggingFaceHub).  
+Example:  
+python CopyEdit  
+from langchain.chains import RetrievalQA from 
+langchain.llms import HuggingFaceHub from 
+langchain.vectorstores import FAISS  
+from langchain.embeddings import HuggingFaceEmbeddings  
+ def 
+build_qa_chain(faiss_index):  
+    retriever = FAISS(faiss_index, HuggingFaceEmbeddings())     llm = 
+HuggingFaceHub(repo_id="mistralai/Mistral-7B-Instruct-v0.1", 
+model_kwargs={"temperature":0})  
+    qa = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)     
+return qa  
+ def ask_question(qa_chain, 
+question):     return 
+qa_chain.run(question)  
+  
+Step 9: Implement Multi-Agent System (agents/ folder)  
+ 
+•  Build 4 agents:  
+o 
+context_miner.py: Extract entities, timelines. o 
+contradiction_hunter.py: Detect contradictions. o 
+action_planner.py: Generate actionable items.  
+o 
+persona_shifter.py: Adapt answers per department/persona.  
+Use AutoGen or CrewAI for communication between agents.  
+  
+Step 10: Add Memory and Temporal Reasoning (core/memory_store.py & 
+temporal_reasoning.py)  
+ 
+•  Use Redis or local JSON/SQLite for:  
+o Storing uploaded docs, interaction history.  
+o Comparing versions for change detection.  
+  
+Step 11: Build Organizational Knowledge Graph (core/org_graph_builder.py)  
+ 
+•  Use NetworkX + Plotly to create and visualize entity relationships.  
+  
+Step 12: Create Frontend with Streamlit (frontend/app.py + components.py)  
+• 
+Drag & drop upload for docs + images.  
+• 
+Chat interface to ask questions.  
+• 
+Display knowledge graph.  
+• 
+Show action plan summaries.  
+Run with:  
+bash CopyEdit  
+streamlit run frontend/app.py  
+  
+Step 13: Optional - Integrate with Jira/Notion/Slack (utils/config.py) • 
+Use their APIs to push AI-generated tasks or summaries.  
+  
+Step 14: Testing & Debugging  
+• 
+Write unit tests for each module in tests/ folder.  
+• 
+Use logging in utils/logging.py to trace issues.  
+  
+Step 15: Final Packaging & Demo  
+• 
+Prepare README with setup and usage instructions.  
+• 
+Create architecture diagrams (architecture.png).  
+• 
+Record 2-3 min demo video showing system features.  
+• 
+Push code to GitHub with clear commit history.  
+  
+ 
+ 
+2nd project  
+4. GenAI for Accessibility: "VisionToSpeech" (Blind Assistant Copilot) (🧠 Vision + GPT + Audio 
+Streaming) 
+  “A live camera-powered GPT assistant that narrates the world around you for visually 
+impaired users.” 
+• 
+What it does: Uses a webcam or phone cam to continuously send frames to a Vision-
+GPT model (e.g., GPT-4o), which gives audio narration and answers queries like: 
+"Where am I?", "What color is this note?", etc. 
+• 
+Why unique: It’s not just image-to-text—it's interactive narration (open-ended 
+Q&A on live vision). 
+• 
+Tech: GPT-4o, Whisper (voice), OpenCV, PyTorch + real-time streaming.
