@@ -1,0 +1,45 @@
+   
+# Environment & Secrets
+
+.env
+.env.*
+
+
+# Python Virtual Environments
+
+askyourdocs/
+.venv/
+venv/
+env/
+
+
+# Python Cache & Compiled Files
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Streamlit
+
+.streamlit/
+
+
+# FAISS / Vector Stores
+
+faissIndex/
+*.faiss
+*.pkl
+
+
+# OS / Editor Files
+
+.DS_Store
+Thumbs.db
+
+# Logs & Temp Files
+
+*.log
+tmp/
+temp/

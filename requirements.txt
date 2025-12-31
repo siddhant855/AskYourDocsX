@@ -1,0 +1,25 @@
+# UI Framework
+streamlit
+
+# Core LangChain ecosystem
+langchain
+langchain-community
+langchain-text-splitters
+
+# Embeddings
+langchain-huggingface
+sentence-transformers
+
+# Vector Store
+faiss-cpu
+
+# LLM Provider
+langchain-groq
+groq
+
+# Document loaders
+pypdf
+python-docx
+
+# Environment variable management
+python-dotenv
